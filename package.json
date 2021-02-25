@@ -1,0 +1,27 @@
+{
+  "name": "webpack-initial",
+  "version": "1.0.0",
+  "description": "Es una estructura de un proyecto de webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stalin2789/estructura-webpack-js.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Stalin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stalin2789/estructura-webpack-js/issues"
+  },
+  "homepage": "https://github.com/stalin2789/estructura-webpack-js#readme",
+  "devDependencies": {
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
