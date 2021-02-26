@@ -2,7 +2,7 @@
 
 Proyecto inicial para crear aplicaciones usando webpack.
 
-###Notas:
+### Notas:
 Recuerden reconstruir los módulos de Node
 ```
 npm install
