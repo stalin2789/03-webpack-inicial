@@ -1,5 +1,17 @@
 # 03-webpack-inicial
 
+Proyecto inicial para crear aplicaciones usando webpack.
+
+###Notas:
+Recuerden reconstruir los módulos de Node
+```
+npm install
+````
+y para reconstruir el build, recuerden:
+````
+npm run build
+````
+
 1. Verificar que se tenga instalado node y npm
 node --version
 npm --version
